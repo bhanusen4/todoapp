@@ -1,2 +1,2 @@
 # todoapp
-To Do App 
+Todo App 
